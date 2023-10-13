@@ -24,7 +24,7 @@ This Python application manages data from a CSV file containing information abou
 2. **Clone Repository**: Clone this repository and navigate to the directory.
 
    ```sh
-   git clone [Your-Repo-Link]
+   git clone [[Your-Repo-Link]](https://github.com/FastEddyOne/CSVModule.git)
    cd path-to-directory
 Data Preparation: Ensure your data file (banklist.csv) is in the project directory (CSVModule/banklist.csv).
 
